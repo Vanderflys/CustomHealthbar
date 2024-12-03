@@ -1,5 +1,7 @@
 ![Header](https://cdn.modrinth.com/data/cached_images/d7913518e5bf225b87dc1a02957f4aac73effc5e.png)
 
+# Download on [Modrinth](https://modrinth.com/datapack/betterhealthbar)!
+
 ## 📖 Description
 A fully customizable datapack for Minecraft 1.20.6/1.21.3 that displays a health bar for nearly all mobs. This datapack also includes a damage display showing how much damage you did. The health bar and damage display can both be customized to suit your preferences and colorful imagination while maintaining the Minecraft aesthetic. It works seamlessly in both single-player and multiplayer modes.
 
